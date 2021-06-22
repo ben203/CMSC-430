@@ -1,0 +1,9 @@
+-- Using Real Operands with Remainder Operator
+
+function main returns real;
+begin
+    9.0 rem 6.0;
+end;
+
+ 
+
